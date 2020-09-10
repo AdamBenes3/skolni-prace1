@@ -1,0 +1,9 @@
+<html>
+ <head>
+  <title>Moje první stránka</title>
+ </head>
+ <body>
+  <h1>Tohle je nadpis</h1>
+  <p>A tohle je odstavec</p>
+ </body>
+</html>
